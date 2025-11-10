@@ -5,5 +5,5 @@ Nomes: <br>
   Diego Ramos Justino - RA: 2301649 <br>
   Fernanda Silva - RA: 2301140 <br>
 
-Descrição: 
+Descrição: <br>
   Nosso projeto é um Robô Guia, que visa mostrar a utilidade de um robô em rotas com obstáculos, mostrando a possibilidade de utilizarmos máquinas para guiar pessoas com deficiências visuais.
