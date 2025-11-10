@@ -1,4 +1,4 @@
-- Nomes:
+Nomes: <br>
   Guilherme Almeida dos Santos - RA: 2300689 <br>
   Samanta Aparecida de Souza - RA: 2300779 <br>
   João Antônio da Silva Junior - RA: 230111 <br>
