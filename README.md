@@ -1,9 +1,16 @@
-Nomes: <br>
-  Guilherme Almeida dos Santos - RA: 2300689 <br>
-  Samanta Aparecida de Souza - RA: 2300779 <br>
-  João Antônio da Silva Junior - RA: 230111 <br>
-  Diego Ramos Justino - RA: 2301649 <br>
-  Fernanda Silva - RA: 2301140 <br>
+🤖 Robô Guia
 
-Descrição: <br>
-  Nosso projeto é um Robô Guia, que visa mostrar a utilidade de um robô em rotas com obstáculos, mostrando a possibilidade de utilizarmos máquinas para guiar pessoas com deficiências visuais.
+Projeto acadêmico desenvolvido para simular um robô guia capaz de seguir rotas com obstáculos, demonstrando como a robótica pode ser aplicada na acessibilidade e no auxílio à locomoção de pessoas com deficiência visual. <br>
+O objetivo é destacar o uso de máquinas como apoio seguro na orientação em ambientes com barreiras físicas. ✨ <br>
+<br>
+👥 Integrantes <br>
+<br>
+Guilherme Almeida dos Santos – RA: 2300689 <br>
+
+Samanta Aparecida de Souza – RA: 2300779 <br>
+
+João Antônio da Silva Junior – RA: 230111 <br>
+
+Diego Ramos Justino – RA: 2301649 <br>
+
+Fernanda Silva – RA: 2301140 <br>
