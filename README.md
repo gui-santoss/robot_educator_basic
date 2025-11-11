@@ -4,7 +4,7 @@ Projeto acadêmico desenvolvido para simular um robô guia capaz de seguir rotas
 O objetivo é destacar o uso de máquinas como apoio seguro na orientação em ambientes com barreiras físicas. ✨ <br>
 <br>
 👥 Integrantes <br>
-<br>
+
 Guilherme Almeida dos Santos – RA: 2300689 <br>
 
 Samanta Aparecida de Souza – RA: 2300779 <br>
